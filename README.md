@@ -1,1 +1,1 @@
-# laravel-blade-components
+# militer-laravel-blade-components
